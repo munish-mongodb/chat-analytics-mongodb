@@ -1,6 +1,6 @@
 # Chat Analytics on MongoDB
 
-A runnable Colab notebook that proves MongoDB can serve chat analytics without a separate data warehouse. It generates 2,000 synthetic support conversations, loads them into your MongoDB, and answers ten real analytics questions with aggregation pipelines and charts — then showcases Vector Search, Atlas Search, change streams, and time-series collections.
+A Colab notebook for chat analytics on MongoDB. It generates 2,000 synthetic support conversations, loads them into your MongoDB, and answers ten questions with aggregation pipelines and charts. It also covers four Atlas features: Vector Search, full-text Search, change streams, and time series collections.
 
 **Notebook:** [`chat_analytics_mongodb.ipynb`](chat_analytics_mongodb.ipynb)
 
